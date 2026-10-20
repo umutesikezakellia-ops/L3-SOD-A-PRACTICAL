@@ -1,0 +1,83 @@
+header {
+    background-color:#14532D;
+    padding: 15px;
+    color:white;
+    text-align: center;
+    margin-bottom:10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    border-radius: 12px;
+    border-bottom: 0px;
+    margin-top: 0px;
+    margin-bottom: 0%;
+    max-width: 800px;
+    min-height: 30px;
+    border-bottom-right-radius: 0px;
+    border-bottom-left-radius: 0px;
+}  
+nav {
+    color:cyan;
+    display: flex;
+    gap: 25px;
+    justify-content: center;
+    display: flex; 
+}
+a {
+    color:white;
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 8px;
+    transition: color 0.3s ease;
+    text-align: end;
+}
+a:hover {
+    color:gold;
+}
+.nature-image {
+    display: block;
+    margin: 10px auto;
+    border-radius: 20px;
+    align-content: center;
+}
+.nick {
+    text-align: center;
+    color: #14532D;
+    text-align: center;
+
+}
+body {
+     background-color: #000;
+     margin: 0px;
+     font-family: Arial, sans-serif;
+}
+.mine {
+    text-align: center;
+    color: grey;
+}
+.page{
+    width: 100%;
+    max-width: 750px;
+    min-height: 100vh;
+    margin: 140px;;
+    background-color: white;
+    box-sizing: border-box;
+    border-radius: 12px;
+    padding: 1px;
+}
+.border {
+    text-align: center;
+    margin: 0 0 12px;
+}
+.sleep {
+    background-color: #14532D;
+    margin: 10px auto;
+    padding: 0 5px ;
+    max-width: 700px;
+    text-align: center;
+}
+
+
+
+
